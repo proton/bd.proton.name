@@ -1,0 +1,189 @@
+html, body {
+	margin:0px;
+	padding:0px;
+	background-color: #fff;
+	color:#FFF;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+}
+a:link {
+	color:#fff;
+	text-decoration: none;
+}
+
+a:visited {
+	color:#fff;
+	text-decoration: none;
+}
+
+a:hover {
+	color:#fff;
+	text-decoration: none;
+}
+
+a:active {
+	color:#fff;
+	text-decoration: none;
+}
+
+h1 {
+	font-size:36px;
+	padding:0px;
+	margin:0px;
+}
+
+h2 {
+	font-size:18px;
+	padding:0px;
+}
+
+h3 {
+	font-size:18px;
+	padding:0px;
+	margin:0px;
+}
+
+p.p {
+	width:751px;
+}
+
+table.table {
+	width:751px;
+}
+
+table.table td,th {
+	border:1px dotted #fc5604;
+}
+
+table.tableb {
+	width:751px;
+}
+
+table.tableb td,th {
+	border:none;
+}
+
+ul.ul {
+	text-align:left;
+	margin-top:0px;
+	font-size:15px;
+}
+
+#wrap {
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	width:771px;
+	height:499px;
+	text-align:center;
+}
+
+div.container {
+	width:751px;
+	margin:10px;
+	padding: 10px;
+	text-align:center;
+	height: 310px;
+	overflow-y: auto;
+}
+
+#vk {
+	padding: 10px;
+}
+
+#uccounter {
+	width:720px;
+	height:160px;
+	margin-left:25px;
+}
+
+.countdown_section {
+	display: block;
+	float:left;
+	font-size:18px;
+	text-align:center;
+	font-weight:normal;
+	width: 144px;
+	padding-top:10px;
+	line-height:inherit;
+}
+.countdown_amount {
+	font-size:90px;
+}
+#overlay {
+	margin-top:-74px;
+}
+
+#defaultCountdown {
+	height:148px;
+}
+
+#footer {
+	width:771px;
+	height:65px;
+}
+#tweet {
+	width:550px;
+	height:65px;
+	padding:5px;
+	text-align:left;
+	font-size:14px;
+	vertical-align:middle;
+}
+ul#tweet {
+	margin:0px;
+}
+#tweet li {
+	padding-top:3px;
+	padding-left: 0px;
+	list-style:none;
+}
+p#loadingtwitter {
+	padding-left:40px;
+}
+#subscribe {
+	width:200px;
+	height:65px;
+	text-align:right;
+	top: 0px;
+}
+#note {
+	height:8px;
+}
+.textbox {
+	padding:4px;
+	border:1px solid #CCCCCC;
+	width:130px;
+	height:18px;
+	vertical-align:middle;
+}
+.button {
+	padding-right:5px;
+	vertical-align:middle;
+}
+ul#cc {
+	padding:0px;
+	top:2px;
+	width:200px;
+	text-align:right;
+	list-style:none;
+	vertical-align:middle;
+}
+
+.notification_error
+{
+	height: auto;
+	width: 90%;
+	padding: 0px;
+	text-align: left;
+	font-size:10px;
+}
+.notification_ok
+{
+	height: auto;
+	width: 100%;
+	padding-top: 10px;
+	padding-right: 10px;
+	text-align: right;
+	font-size:14px;
+}

@@ -1,0 +1,17 @@
+html, body {
+	background-image: url('bg.jpg');
+}
+
+div.container {
+	background-image:url('main.png');
+	background-repeat:no-repeat;
+}
+
+#overlay {
+	background-image: url('flipoverlay.png');
+	background-repeat:repeat-x;
+}
+#defaultCountdown {
+	background-image: url('flipbg.png');
+	background-repeat:repeat-x;
+}
